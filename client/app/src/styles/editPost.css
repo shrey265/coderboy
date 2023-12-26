@@ -1,0 +1,35 @@
+.editPost{
+    min-height: 80vh;
+}
+.editPost form{
+    width: 80%;
+    margin: auto auto;
+}
+
+.editPost input{
+    display: block;
+    width: 80%;
+    height: 40px;
+    margin: 0 auto 20px auto;
+    padding-left: 10px;
+}
+
+.editPost .editor{
+    width: 80%;
+    margin: auto auto;
+}
+.editPost button{
+    display: block;
+    margin: 10vh auto auto auto;
+    width: 300px;
+    height: 30px;
+    border: none;
+    background-color: #333;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.editPost h2{
+    text-align: center;
+    margin-bottom: 5vh;
+}

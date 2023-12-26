@@ -1,0 +1,42 @@
+footer{
+    display: flex;
+    justify-content: space-between;
+    height: 25vh;
+    padding-left: 7vw;
+    padding-right: 10vw;
+    background-color: #ffffff;
+    margin-top: 80px;
+    box-shadow: 0 1px 0px 0px rgb(123, 121, 121,0.1);
+  }
+
+a{
+    align-self: center; /* to center */
+}
+
+.footer-logos{
+    display: flex;
+    justify-content: center;
+    /* margin-right: 20vw; */
+}
+
+.footer_image{
+    width: 150px;
+
+}
+
+.leetcode-footer{
+    position: relative;
+    top: 5px;
+    width: 50px;
+    margin: 10px;
+}
+
+.github-footer{
+    width: 40px;
+    margin: 20px;
+}
+
+.linkedin-footer{
+    width: 35px;
+    margin: 20px;
+}

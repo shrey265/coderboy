@@ -1,0 +1,35 @@
+.createPost{
+    min-height: 80vh;
+}
+.createPost form{
+    width: 80%;
+    margin: auto auto;
+}
+
+.createPost input{
+    display: block;
+    width: 80%;
+    height: 40px;
+    margin: 0 auto 20px auto;
+    padding-left: 10px;
+}
+
+.createPost .editor{
+    width: 80%;
+    margin: auto auto;
+}
+.createPost button{
+    display: block;
+    margin: 10vh auto auto auto;
+    width: 300px;
+    height: 30px;
+    border: none;
+    background-color: #333;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.createPost h2{
+    text-align: center;
+    margin-bottom: 5vh;
+}

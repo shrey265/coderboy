@@ -1,0 +1,27 @@
+#scroll-up-left{
+    position: absolute;
+    right: 4.4vw;
+    bottom: 10vh;
+    width: 25px;
+    height: 5px;
+    background-color: #a09e9e;
+    cursor: pointer;
+    transform: rotate(-25deg);
+    /* transform: scale(0); */
+    /* filter: blur(1px); */
+  }
+  #scroll-up-right{
+    position: absolute;
+    right: 3vw;
+    bottom: 10vh;
+    width: 25px;
+    height: 5px;
+    background-color: #a09e9e;
+    cursor: pointer;
+    transform: rotate(25deg);
+    /* transform: scale(0); */
+  }
+
+  .back-to-top-visible{
+    /* transform: scale(1); */
+  }

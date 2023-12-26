@@ -1,0 +1,33 @@
+.menu{
+    height: 40px;
+    width: 40px;
+    position: relative;
+    visibility: hidden;
+}
+
+.a{
+    position: relative;
+    top: 0px;
+    width: 30px;
+    height: 4px;
+    border-radius: 1px;
+    background-color: #333;
+    box-shadow: 0 20px 0 0 #333;
+    margin: auto auto;
+}
+
+.b{
+    position: relative;
+    top: 6px;
+    width: 30px;
+    height: 4px;
+    border-radius: 1px;
+    background-color: #333;
+    margin: auto auto;
+}
+
+@media screen and (max-width: 1200px) {
+   .menu{
+    visibility: visible;
+   }
+} 
